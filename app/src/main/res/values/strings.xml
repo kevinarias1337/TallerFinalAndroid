@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TallerFinalAndroid</string>
+    <string name="titulo">Registro de Calificaciones</string>
+    <string name="matricula">Ingrese el código de la matricula</string>
+    <string name="calificacion1">Ingrese la calificación #1</string>
+    <string name="calificacion2">Ingrese la calificación #2</string>
+    <string name="calificacion3">Ingrese la calificación #3</string>
+    <string name="nombre">Ingrese su nombre completo</string>
+    <string name="guardar">Guardar</string>
+    <string name="salir">Salir</string>
+</resources>
